@@ -1,0 +1,9 @@
+Port Count     Packet gen prob          Queue Type          Avg delay           Std Deviation            Link util                
+8              0.500000                 INQ                 2.228572            1.680743                 0.493663                 
+Port Count     Packet gen prob          Queue Type          Avg delay           Std Deviation            Link util                
+8              0.700000                 INQ                 4.428565            2.620622                 0.602037                 
+Port Count     Packet gen prob          Queue Type          Avg delay           Std Deviation            Link util                
+8              0.800000                 INQ                 5.413222            2.672213                 0.614500                 
+
+Port Count     Packet gen prob          Queue Type          Avg delay           Std Deviation            Link util                
+8              0.500000                 ISLIP               2.069723            1.818963                 0.498225                 
