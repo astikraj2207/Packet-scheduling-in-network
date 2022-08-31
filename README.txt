@@ -1,6 +1,5 @@
 Topics In Networks Assignment
-Submitted by : Priyank Soni 190101067
-               Rohit Kumar  190101077
+Submitted by : Rohit Kumar
 
 Commands : 
 ------------------------------------------------------------------------------------------------
