@@ -1,6 +1,6 @@
 Topics In Networks
 Performance of queuing in a packet switch for different scheduling algorithms.
-Submitted by : Rohit Kumar
+Submitted by: Astik Raj
 
 Commands : 
 ------------------------------------------------------------------------------------------------
